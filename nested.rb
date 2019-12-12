@@ -30,7 +30,7 @@ def alan_kay_is_known_for
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
+          :known_for => "GUI",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
